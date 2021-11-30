@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.student {
+  display: flex;
+  gap: 5px;
+  margin: 0 0 5px 0;
+  border: solid 1px #000;
+  padding: 10px;
+}
